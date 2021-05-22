@@ -1,0 +1,18 @@
+body{
+    background-color:  #151b29;
+    margin: 0;
+    color: white;
+    padding: 0;
+}
+#lin{
+    height: 50px;
+    width: 50px;
+}
+#git{
+    height: 50px;
+    width: 50px;
+}
+.instalike{
+    height: 200px;
+    width: 200px;
+}
